@@ -1,0 +1,23 @@
+html body {
+    background-color: purple;
+    color: white;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+    text-shadow: 3px 3px 5px black;
+}
+h2 {
+    font-weight: bold;
+    font-family: cursive;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+pre {
+    font-weight: bold;
+    font-family: cursive;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
